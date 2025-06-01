@@ -21,6 +21,7 @@ A real-time chat-based personal finance management API built with Node.js, Expre
 
 # Running the Application
 npm run dev
-
+![Preview 1](./project%20image1.png)
+![Preview 2](./project%20image2.png)
 
 
