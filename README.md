@@ -1,10 +1,10 @@
 # Personal Finance Assistant Chat API
 
-A real-time chat-based personal finance management API built with Node.js, Express, Socket.IO, and MongoDB.
+A Realtime Chatbased personal finance management API built with Node.js, Express, Socket.IO, and MongoDB.
 
 # Features
 
-- Real-time chat interface for financial management
+- Realtime chat interface for financial management
 - User authentication with JWT
 - Secure password hashing with bcrypt
 - MongoDB for data persistence
